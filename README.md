@@ -182,5 +182,5 @@ plt.show()
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-08/assets/128135616/6ffbd756-b321-49d8-94ed-9c2ff1452d80)
 
 
-RESULT:
+## RESULT:
 Hence the data visualization method for the given dataset applied successfully.
