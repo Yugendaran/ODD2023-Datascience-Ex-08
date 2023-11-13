@@ -21,7 +21,9 @@ STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE:
-NAME: YUGENDARAN.G
+
+DEVELOPED BY : YUGENDARAN.G
+
 Register Number : 212221220063
 ```
 #Import required libraries
